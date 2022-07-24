@@ -9,7 +9,7 @@ Do a bike trip analysis in Des Moines. We used Tableau to create visualizations 
 
 -Show the number of bike trips for each type of user and gender for each day of the week.
 
-![image](https://user-images.githubusercontent.com/103350061/180642029-5f8bc660-858b-4391-8925-fa89e83c277c.png)
+https://tinyurl.com/Link-to-Dashboard
 
 Gender Breakdown
 <img width="1088" alt="Screen Shot 2022-07-24 at 2 28 08 AM" src="https://user-images.githubusercontent.com/103350061/180640908-4ed4ca37-a08f-4a93-a6db-b0987ec6a3e3.png">
@@ -47,4 +47,5 @@ Further areas to explore:
 -Weather conditions impacting the usage of bikes
 -Average trip duration and usage by age
 -Compare activity across the year by different months to see if there is a trend.
+
 
