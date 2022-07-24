@@ -40,10 +40,12 @@ Trips by Gender by Weekday
 <img width="1150" alt="Screen Shot 2022-07-24 at 2 30 40 AM" src="https://user-images.githubusercontent.com/103350061/180640981-5d373566-33ab-4724-8132-619c854ce244.png">
 Those rides are mostly taken by male users.
 
-##Summary:
+## Summary:
 User base is made up mostly of male bikers. Need to attrach female riders. Commute times are busiest. 
 
 Further areas to explore:
 -Weather conditions impacting the usage of bikes
+
 -Average trip duration and usage by age
+
 -Compare activity across the year by different months to see if there is a trend.
