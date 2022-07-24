@@ -47,5 +47,3 @@ Further areas to explore:
 -Weather conditions impacting the usage of bikes
 -Average trip duration and usage by age
 -Compare activity across the year by different months to see if there is a trend.
-
-
