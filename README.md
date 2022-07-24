@@ -9,7 +9,7 @@ Do a bike trip analysis in Des Moines. We used Tableau to create visualizations 
 
 -Show the number of bike trips for each type of user and gender for each day of the week.
 
-Link to Dashboard: https://public.tableau.com/app/profile/neesha1338/viz/CitiBikeChallenge_16577603720200/Story1?publish=yes
+![image](https://user-images.githubusercontent.com/103350061/180642029-5f8bc660-858b-4391-8925-fa89e83c277c.png)
 
 Gender Breakdown
 <img width="1088" alt="Screen Shot 2022-07-24 at 2 28 08 AM" src="https://user-images.githubusercontent.com/103350061/180640908-4ed4ca37-a08f-4a93-a6db-b0987ec6a3e3.png">
